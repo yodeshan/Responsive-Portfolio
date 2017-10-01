@@ -1,0 +1,121 @@
+body {
+	background-color:#ebebeb;
+}
+#company {
+	padding:25px;
+	float:left;
+	background-color:#4aaaa5;
+	margin-left:100px;
+}
+
+#navbar {
+	float:right;
+	margin-right: 400px;
+	
+}
+#navbar1 {
+	float:right;
+	margin-right:100px;
+}
+#navbar2 {
+	float:right;
+	margin-right:100px;
+}
+#lip {
+	margin-top:-25px;
+}
+#nav {
+	padding :33px;
+	background-color: #ffffff;
+	font-color:#333;
+
+}
+a:link {
+	text-decoration:none;
+}
+#about {
+	padding:50px;
+	background-color:#ffffff;
+	margin-left:100px;
+	margin-top:20px;
+	float:left;
+	width:600px;
+	height:400px;
+	margin-bottom:1200px;
+}
+#about2 {
+	background-color: #ffffff;
+	font-size: 25px;
+	font-style:bold;
+}
+#tani {
+	color:#4aaaa5;
+}
+#shift {
+	margin-top:15px;
+}
+#para {
+	float:right;
+	margin-left: 250px;
+	margin-top:-225px;
+	clear:both;
+	font-size:20px;
+}
+#para2 {
+	float:right;
+	margin-left: 0px;
+	margin-bottom:-225px;
+	clear:both;
+	font-size:20px;
+}
+#connect {
+	padding:100px;
+	float:right;
+	background-color:#ffffff;
+	margin-right:50px;
+	margin-top:20px;
+}
+#connect2 {
+	font-size:25px;
+	margin-top:-70px;
+	color:#4aaaa5;
+}
+#fb {
+
+}
+#induce {
+	margin-top:1000px;
+}
+#industry {
+	padding:25px;
+	float:left;
+	background-color:#4aaaa5;
+	margin-left:100px;
+}
+#foot {
+	margin-top:550px;
+	padding:40px;
+	background: #999;
+	border-top:10px;
+	border-color: #4aaaa5;
+}
+#lip2 {
+	margin-top:600px;
+
+}
+footer {
+	margin-right: -200px;
+}
+@media screen and (min-width: 960px) {
+    body {
+        background-color: #999;
+    }
+@media screen and (min-width: 768px) {
+    body {
+        background-color: #999;
+    }
+@media screen and (min-width: 640px) {
+    body {
+        background-color: #999;
+    }
+  
