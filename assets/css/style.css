@@ -5,7 +5,7 @@ body {
 	padding:25px;
 	float:left;
 	background-color:#4aaaa5;
-	margin-left:100px;
+	margin-left:150px;
 }
 
 #navbar {
@@ -41,7 +41,7 @@ a:link {
 	float:left;
 	width:600px;
 	height:400px;
-	margin-bottom:1200px;
+	margin-bottom:1400px;
 }
 #about2 {
 	background-color: #ffffff;
@@ -74,6 +74,7 @@ a:link {
 	background-color:#ffffff;
 	margin-right:50px;
 	margin-top:20px;
+	position:static;
 }
 #connect2 {
 	font-size:25px;
@@ -91,31 +92,38 @@ a:link {
 	float:left;
 	background-color:#4aaaa5;
 	margin-left:100px;
+
+
 }
+
 #foot {
 	margin-top:550px;
-	padding:40px;
+	padding:20px;
 	background: #999;
 	border-top:10px;
 	border-color: #4aaaa5;
 }
-#lip2 {
-	margin-top:600px;
 
+#foot2 {
+	float:left;
+	margin-left:-250px;
 }
+
+
+
 footer {
 	margin-right: -200px;
 }
-@media screen and (min-width: 960px) {
+@media screen and (max-width: 960px) {
     body {
-        background-color: #999;
+        background-color: #555;
     }
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
     body {
-        background-color: #999;
+        background-color: #333;
     }
-@media screen and (min-width: 640px) {
+@media screen and (max-width: 640px) {
     body {
-        background-color: #999;
+        background-color: #111;
     }
   
